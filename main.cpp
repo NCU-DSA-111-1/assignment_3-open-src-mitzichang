@@ -5,8 +5,8 @@
 #include <vector>
 #include <time.h>
 #include <iomanip>
-#include "./inc/huffman.h"
-#include "./inc/arithmetic.h"
+#include "huffman.h"
+#include "arithmetic.h"
 
 using namespace std;
 
